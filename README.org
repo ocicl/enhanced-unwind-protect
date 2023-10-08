@@ -1,0 +1,11 @@
+* enhanced-unwind-protect
+
+Provides an enhanced UNWIND-PROTECT that makes it easy to detect
+whether the protected form performed a non-local exit or returned
+normally.
+
+|---------+--------------------------------------------------------------|
+| source  | git:https://github.com/Hexstream/enhanced-unwind-protect.git |
+| commit  | 7915c72                                                      |
+| systems | enhanced-unwind-protect                                      |
+|---------+--------------------------------------------------------------|
