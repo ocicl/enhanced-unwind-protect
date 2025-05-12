@@ -6,6 +6,6 @@ normally.
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://github.com/Hexstream/enhanced-unwind-protect.git |
-| commit  | 1d9cc1f                                                      |
+| commit  | df6f450                                                      |
 | systems | enhanced-unwind-protect                                      |
 |---------+--------------------------------------------------------------|
